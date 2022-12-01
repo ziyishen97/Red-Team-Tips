@@ -53,7 +53,7 @@ evilgophish: https://github.com/fin3ss3g0d/evilgophish
 
 Flamingo: https://github.com/atredispartners/flamingo
 
-
+SET: https://github.com/trustedsec/social-engineer-toolkit
 
 
 ## OSINT
@@ -65,6 +65,7 @@ theHarvester: https://github.com/laramies/theHarvester
 
 Sherlock: https://github.com/sherlock-project/sherlock
 
+Shodan: https://www.shodan.io/
 
 
 ## MISC
@@ -102,6 +103,17 @@ monkey365: https://github.com/silverhack/monkey365
 
 prowler: https://github.com/prowler-cloud/prowler
 
+AADInternals: https://github.com/Gerenios/AADInternals
+
+365-Stealer: https://github.com/AlteredSecurity/365-Stealer
+
+MSOLSpray: https://github.com/dafthack/MSOLSpray
+
+o365creeper: https://github.com/LMGsec/o365creeper
+
+MicroBurst: https://github.com/NetSPI/MicroBurst
+
+ROADTools: https://github.com/dirkjanm/ROADtools
 
 
 
@@ -112,7 +124,7 @@ frp: https://github.com/fatedier/frp
 
 neo-regeorg: https://github.com/L-codes/Neo-reGeorg
 
-
+StormSpotter: https://github.com/Azure/Stormspotter
 
 
 ## Network Manipulation
@@ -125,6 +137,10 @@ Inveigh: https://github.com/Kevin-Robertson/Inveigh
 ntlmrelayx: https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
 
 
+## Wifi 
+aircrack-ng: https://github.com/aircrack-ng/aircrack-ng
+
+
 
 ## Scan
 nmap: https://github.com/nmap/nmap
@@ -132,6 +148,14 @@ nmap: https://github.com/nmap/nmap
 RustScan: https://github.com/RustScan/RustScan
 
 Masscan: https://github.com/robertdavidgraham/masscan
+
+OpenVas: https://github.com/greenbone/openvas-scanner
+
+Xray: https://github.com/chaitin/xray
+
+nuclei: https://github.com/projectdiscovery/nuclei
+
+
 
 ## Local Persistence
 SharPersist: https://github.com/mandiant/SharPersist
