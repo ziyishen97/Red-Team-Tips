@@ -53,6 +53,9 @@ evilgophish: https://github.com/fin3ss3g0d/evilgophish
 
 Flamingo: https://github.com/atredispartners/flamingo
 
+
+
+
 ## OSINT
 maigret: https://github.com/soxoj/maigret
 
@@ -60,13 +63,22 @@ SpiderFoot: https://github.com/smicallef/spiderfoot
 
 theHarvester: https://github.com/laramies/theHarvester
 
+Sherlock: https://github.com/sherlock-project/sherlock
+
+
+
 ## MISC
 ASCII Banner: https://manytools.org/hacker-tools/ascii-banner/
+
+
+
 
 ## Leaked Information
 DeHashed: https://dehashed.com/
 
 WhatBreach: https://github.com/Ekultek/WhatBreach
+
+
 
 
 ## Auxiliary
@@ -111,6 +123,58 @@ Responder: https://github.com/SpiderLabs/Responder
 Inveigh: https://github.com/Kevin-Robertson/Inveigh
 
 ntlmrelayx: https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
+
+
+
+## Scan
+nmap: https://github.com/nmap/nmap
+
+RustScan: https://github.com/RustScan/RustScan
+
+Masscan: https://github.com/robertdavidgraham/masscan
+
+## Local Persistence
+SharPersist: https://github.com/mandiant/SharPersist
+
+
+
+## Local Enumeration
+LinPeas: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+
+WinPeas: https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
+
+PowerUp: https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
+
+
+
+
+## Active Directory Recon
+PowerView: https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
+
+adPeas: https://github.com/61106960/adPEAS
+
+BloodHound: https://github.com/BloodHoundAD/BloodHound
+
+SharpHound: https://github.com/BloodHoundAD/BloodHound/tree/master/Collectors
+
+PowerUpSQL: https://github.com/NetSPI/PowerUpSQL
+
+
+
+
+## Active Directory Exploitation
+krbrelayup: https://github.com/Dec0ne/KrbRelayUp
+
+Rubeus: https://github.com/GhostPack/Rubeus
+
+
+
+## Lateral Movement
+evil-winrm: https://github.com/Hackplayers/evil-winrm
+
+PAExec: https://github.com/poweradminllc/PAExec
+
+SCShell: https://github.com/Mr-Un1k0d3r/SCShell
 
 
 
